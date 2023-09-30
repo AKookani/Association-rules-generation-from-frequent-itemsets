@@ -1,2 +1,3 @@
 # APORIO-and-FP-Growth-in-DigiKala-dataset
-"Discover frequent patterns in the Digikala dataset using APORIO and FP-Growth methods in MATLAB 📊💻 #DataMining #FrequentPatterns"
+
+"This project utilizes the APORIO and FP-Growth methods in MATLAB to extract key indexes such as 𝜒2, Lift, and Imbalance Ratio from the Digikala dataset, enabling insightful pattern analysis and decision-making."
